@@ -1,6 +1,12 @@
-# IA e sostenibilità
+# IA, energia e futuro
 
 Sito statico pronto per GitHub Pages.
+
+## Dati del progetto
+- Titolo: IA, energia e futuro: il costo nascosto dell’innovazione
+- Autore: Davide Siciliani
+- Classe: 5H
+- Scuola: Donegani-Ciliberto
 
 ## File
 - index.html
@@ -8,10 +14,6 @@ Sito statico pronto per GitHub Pages.
 - script.js
 
 ## Pubblicazione rapida
-1. Carica questi file in un repository GitHub pubblico.
-2. Vai in Settings > Pages.
-3. In Build and deployment scegli:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: /root
-4. Salva e aspetta il link del sito.
+1. Sostituisci nel repository i vecchi file con questi.
+2. Fai commit delle modifiche.
+3. GitHub Pages aggiornerà il sito automaticamente.
